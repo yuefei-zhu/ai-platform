@@ -1,3 +1,5 @@
+AI-Platform Task UUID: `fdb0b119-49c2-4004-a331-b7afc6b3de00`
+
 # StyleGAN Pytorch Implementation
 This is a Pytorch implementation of StyleGAN.
 
