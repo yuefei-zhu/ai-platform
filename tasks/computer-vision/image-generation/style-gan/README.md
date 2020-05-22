@@ -62,3 +62,6 @@ For other training options, please check the MLproject file. For hyperparameters
 4. Add moving average of generator's weight
 
 Multi-GPU support is added but not experimented due to hardware limitation.
+
+## License
+This project is under BSD-3 license.
