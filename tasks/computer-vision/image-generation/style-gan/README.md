@@ -4,7 +4,7 @@ This is a Pytorch implementation of StyleGAN.
 ## Prerequisites
 ### Dependencies
 See conda.yaml. Please note that I have cuda 10.0 installed. Change your conda.yaml accordingly if you use different cuda version.
-### Image generation using official implementation's checkpoints
+### Image generation using official implementation's TensorFlow checkpoints
 
 **This step is not needed if running the generation command succeeds for downloading.** If downloading fails for Google Drive, manual download is required:
 
