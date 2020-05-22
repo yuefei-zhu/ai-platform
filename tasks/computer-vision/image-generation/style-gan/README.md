@@ -1,5 +1,5 @@
 # StyleGAN Pytorch Implementation
-This is a Pytorch implementation of StyleGAN.
+This is a Pytorch implementation of StyleGAN (https://arxiv.org/abs/1812.04948).
 
 ## Prerequisites
 ### Dependencies
